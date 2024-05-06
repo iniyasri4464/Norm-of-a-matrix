@@ -50,9 +50,9 @@ print(Norm_of_matrix)
 ### 1-Norm of a Matrix
 ![alt text](image.png)
 ### 2-Norm of a Matrix
-![alt text](image-1.png)
+![alt text](image-3.png)
 ### Infinity Norm of a Matrix
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
